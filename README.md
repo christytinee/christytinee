@@ -2,9 +2,8 @@
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me through my email @christy.gathonni@gmail.com
+- 📫 How to reach me through my email @christy.gathoni@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 christytinee/christytinee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
